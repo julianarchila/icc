@@ -1,0 +1,19 @@
+leer lado1, lado2, lado3
+
+
+max = lado1
+sum = lado1 + lado2 + lado3
+
+
+if lado2 >= max:
+	max = lado2
+
+if lado3 >= max
+	max = lado3
+
+
+if (sum - max) > max:
+	es triangulo
+else:
+	no es triangulo
+
